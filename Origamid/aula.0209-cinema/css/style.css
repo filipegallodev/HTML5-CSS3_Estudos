@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.hoje {
+   color: darkred;
+}
+
+.amanha {
+   color: darkblue;
+}
+
+* {
+   text-decoration-line: none;
+   font-family: Arial;
+}
+
+h2 a {
+   color: seagreen;
+}
+
+p {
+   font-size: 20px;
+}
