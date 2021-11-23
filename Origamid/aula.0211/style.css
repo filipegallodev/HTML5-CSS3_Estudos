@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div {
+   background-color: rgb(20, 218, 224);
+   width: 140px;
+   height: 80px;
+   padding: 30px;
+   border: 10px solid rgb(61, 61, 61);
+   margin: 30px;
+}
+
+body {
+   margin: 0px;
+}
+
+h1 {
+   background: blueviolet;
+   padding: 20px;
+   border: 4px solid rgb(29, 29, 29);
+   margin: 20px;
+}
