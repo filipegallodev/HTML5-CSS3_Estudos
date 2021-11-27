@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1 {
+   background:khaki;
+   width: 300px;
+}
+
+span, a, strong {
+   border: 1px solid black;
+}
+
+div, h1, p {
+   border: 1px solid red;
+}
