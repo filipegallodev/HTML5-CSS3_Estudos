@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+img {
+   /* max-width: 100%; */
+   width: 600px;
+   display: block;
+}
+
+body {
+   background: rgb(136, 201, 223);
+}
