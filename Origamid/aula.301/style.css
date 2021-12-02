@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+span {
+   display: inline-block;
+   background: #ddd;
+}
+
+span {
+   padding: 30px;
+   padding: 20px 40px;
+   padding: 40px 100px 200px 10px;
+   /* 
+   
+   padding: top/bottom right/left;
+   padding: top right bottom left; 
+   
+   Também funciona com border-width e margin
+   
+   */
+   border: 10px solid black;
+   border-width: 30px 60px 10px 50px;
+}
